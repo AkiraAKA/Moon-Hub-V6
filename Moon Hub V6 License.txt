@@ -1,0 +1,34 @@
+### Moon Hub V6 License
+
+**Moon Hub V6 - KAT Script**  
+Version: 1.0  
+Author: Meowbucks
+
+---
+
+#### License Terms:
+
+1. **Usage**:  
+   - You are granted permission to use, modify, and distribute the Moon Hub V6 script for personal or educational purposes.
+   - Any commercial use or reselling of the script without explicit permission from the author is prohibited.
+
+2. **Modification & Distribution**:  
+   - You may modify the script for your own use.
+   - You may distribute modified versions, provided the following conditions are met:
+     - The original author, Meowbucks, must be credited.
+     - The script must include this license in any distributed version.
+
+3. **Prohibited Actions**:
+   - Removing or altering credits, including the author’s name, within the script.
+   - Using the script for malicious purposes, such as exploiting other players or games in a way that violates Roblox’s terms of service.
+
+4. **Liability**:  
+   - The script is provided "as is" without warranty of any kind.
+   - The author is not responsible for any damages, losses, or legal consequences arising from the use or misuse of the script.
+
+5. **Acknowledgment**:  
+   - By using Moon Hub V6, you agree to the terms outlined in this license.
+
+---
+
+**Contact**: For questions or further permissions, contact the author via Discord at `meowbucks`.

@@ -1,0 +1,25 @@
+### Moon Hub V6 - KAT Script Description:
+
+**Moon Hub V6** is an advanced Roblox script designed for the popular game **KAT (Knife Ability Test)**, packed with a range of powerful features to enhance your gameplay experience. Featuring a sleek Rayfield GUI, this script provides robust functionalities, including:
+
+- **Silent Aim**: Automatically locks onto the closest player for precise aiming.
+- **Rainbow FOV**: Dynamic Field of View circle that changes colors for enhanced visibility.
+- **Aimbot**: Keep your target locked by automatically adjusting your character's view to follow your enemies.
+- **ESP (Player Tracking)**: Easily locate other players with custom name tags visible through walls.
+- **Rapid Fire**: Shoot your gun at an incredibly fast rate for maximum damage.
+- **Spam Knife**: Rapidly throw knives with no cooldown, overwhelming your opponents.
+- **Bunny Hop**: Bounce around the map with quick jumping movements.
+- **Infinite Jump**: Jump endlessly to outmaneuver your enemies.
+
+The script also includes extensive error handling and optimizations, utilizing `xpcall`, `pcall`, and `task.wait` to ensure smooth performance and avoid crashes during execution.
+
+**Features Overview**:
+- Silent Aim
+- Rainbow FOV with customizable radius
+- Aimbot
+- ESP for player tracking
+- Rapid Fire for guns
+- Spam Knife for knife throwing
+- Bunny Hop & Infinite Jump
+
+With this feature-packed, robust, and customizable script, dominate the KAT battlefield and leave your opponents in awe!
